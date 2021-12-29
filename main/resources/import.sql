@@ -1,0 +1,2 @@
+insert into personas(nombre, apellido, dni, isEmployee) values ('brenda', 'blanco', 19028625, 'true')
+insert into personas(nombre, apellido, dni, isEmployee) values ('sayen', 'blanco', 53084022, 'true')
